@@ -4,7 +4,7 @@ Probabilidade de retorno à origem, Convergência da estimativa de Monte Carlo, 
 O objetivo é compreender empiricamente o comportamento de processos estocásticos clássicos através de simulações numéricas.
 
 Este trabalho foi desenvolvido por:
-Bianca Vidal Ostapechen
+Bianca Vidal Ostapechen e 
 Mariany Gabriely Barroso
 Curso de Estatística — UFSCar  
 2025
