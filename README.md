@@ -6,7 +6,7 @@ O objetivo é compreender empiricamente o comportamento de processos estocástic
 Este trabalho foi desenvolvido por:
 Bianca Vidal Ostapechen e 
 Mariany Gabriely Barroso
-
+(grupo 2) 
 
 Curso de Estatística — UFSCar  
 2025
